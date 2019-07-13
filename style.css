@@ -1,0 +1,14 @@
+header {
+    text-align: center;
+    background-color: palevioletred;
+}
+
+#contactHeader {
+    border: 2px solid black; 
+    padding-left: 5%;  
+}
+
+p {
+    color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
